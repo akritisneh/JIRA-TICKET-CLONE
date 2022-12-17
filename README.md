@@ -5,6 +5,9 @@
 <li>Jira Core for project management of non-IT areas, such as HR, manufacturing, and content development.
 <li> One can do CRUD operations on jira tickets.
 <li>Tech Stack used - HTML, CSS , JS
+<br>
+<br>
+<br>
 <img src = "jira ss.png">
 <p>
 <h9> Here's how the page actually look like.</h9>
