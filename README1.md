@@ -1,7 +1,7 @@
 <img src = "jira ss.png">
 <p>
-<li>Here's how the page actually look like.
-<h9> How it works?</h9>
+<h9> Here's how the page actually look like.</h9>
+<h6> How it works?</h6>
 <ul>
 <li>We can make a note and  paste it by "Shift" key.
 <li>Also ,you can unlock the ticket and make changes on it by tapping on the lock . 
